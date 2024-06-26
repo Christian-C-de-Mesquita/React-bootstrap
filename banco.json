@@ -1,0 +1,33 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "produto": "Kit taclado",
+      "valor": "R$200,00",
+      "quantidade": 20,
+      "status": true,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThA88hPsXkvmTCN4xX3Nfw4YAYNOGImS-8qQ&usqp=CAU",
+      "endereco": [
+        {"cep": "74961-070"},
+        {"cidade": "74961-070"}
+      ]
+    },
+    {
+      "id": 2,
+      "produto": "Notebook Dell",
+      "valor": "R$2.500,00",
+      "quantidade": 11,
+      "foto": "https://m.media-amazon.com/images/I/41re4Mxgo8L._AC_.jpg"
+    },
+    {
+      "id": "64b6",
+      "produto": "TV LG UHD 55",
+      "valor": "R$3. 419,05",
+      "quantidade": "2",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hDiAfAdrX7ijmlHSiT9sNkOGclIALWCckw&usqp=CAU"
+    }
+  ],
+  "todo": [
+    {"id": 1, "name": "", "data": "MMMM", "status": ""}
+  ]
+}
